@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/staticForm/static/css/main.56e920a3.chunk.css",
+    "main.js": "/staticForm/static/js/main.09bedac6.chunk.js",
+    "main.js.map": "/staticForm/static/js/main.09bedac6.chunk.js.map",
+    "runtime-main.js": "/staticForm/static/js/runtime-main.c0905565.js",
+    "runtime-main.js.map": "/staticForm/static/js/runtime-main.c0905565.js.map",
+    "static/js/2.7722b658.chunk.js": "/staticForm/static/js/2.7722b658.chunk.js",
+    "static/js/2.7722b658.chunk.js.map": "/staticForm/static/js/2.7722b658.chunk.js.map",
+    "static/js/3.d6673bf0.chunk.js": "/staticForm/static/js/3.d6673bf0.chunk.js",
+    "static/js/3.d6673bf0.chunk.js.map": "/staticForm/static/js/3.d6673bf0.chunk.js.map",
+    "index.html": "/staticForm/index.html",
+    "static/css/main.56e920a3.chunk.css.map": "/staticForm/static/css/main.56e920a3.chunk.css.map",
+    "static/js/2.7722b658.chunk.js.LICENSE.txt": "/staticForm/static/js/2.7722b658.chunk.js.LICENSE.txt",
+    "static/media/Screenshot 2021-07-30 140806.9c11125a.png": "/staticForm/static/media/Screenshot 2021-07-30 140806.9c11125a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c0905565.js",
+    "static/js/2.7722b658.chunk.js",
+    "static/css/main.56e920a3.chunk.css",
+    "static/js/main.09bedac6.chunk.js"
+  ]
+}
